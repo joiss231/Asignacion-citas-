@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MiApp</string>
+
+    <!-- Hints de los campos -->
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_apellido">Apellido</string>
+    <string name="hint_document_number">Número de documento</string>
+    <string name="hint_edad">Edad</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_phone">Número de teléfono</string>
+    <string name="hint_password">Contraseña</string>
+
+    <!-- Botón y enlaces -->
+    <string name="register_button">Registrar</string>
+    <string name="login_link">¿Ya tienes cuenta? Inicia sesión</string>
+
+    <!-- Textos para agendamiento de cita -->
+    <string name="agendar_cita">Agendar cita</string>
+    <string name="seleccionar_fecha">Seleccionar fecha</string>
+    <string name="fecha_no_seleccionada">Fecha no seleccionada</string>
+    <string name="seleccionar_hora">Seleccionar hora</string>
+    <string name="hora_no_seleccionada">Hora no seleccionada</string>
+    <string name="confirmar_cita">Confirmar cita</string>
+
+</resources>
